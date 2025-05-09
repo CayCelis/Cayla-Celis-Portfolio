@@ -4,5 +4,10 @@ title: Hi! Glad to see you here!
 ---
 feel free to take a look around!
 ---
-to check out my mars work go to:
-* ├── YYYY-MM-DD-title.md
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
