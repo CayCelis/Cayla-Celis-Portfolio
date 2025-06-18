@@ -1,10 +1,7 @@
 <header>
 
-# Cayla Celis
 
-
-
-_Glad you're here!_
+Glad you're here!
 
 </header>
 
@@ -14,8 +11,3 @@ _Glad you're here!_
 Mechanical Engineer passionate about robotics and skilled in project management.
 
 
-<footer>
-
----
-
-</footer>
