@@ -46,7 +46,3 @@ CAD-ed using Autodesk Inventor dollhouse with furniture. Created drawing and ass
 ### 2022
 - With 3 students, created a project management plan to develop sports mobile app with objectives tree, indices of performance, technical dependencies & design requirements, and project roadmap (Intro to Sys. Eng.).
 - Worked with 3 students to recommend the Virginia Department of Transportation (VDOT) solutions that address connected vehicle applications and that improve safety and efficiency of Virginia’s work zones (Intro to Sys. Eng.).
-
-
-
-
