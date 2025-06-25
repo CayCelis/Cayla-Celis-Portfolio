@@ -20,7 +20,7 @@ layout: default
 
 ![automatic greenhouse schematic](./Academic Projects/automatic greenhouse schematic.png)
 
-![FINAL Projects 3 +4](./Academic Projects/FINAL Projects 3 +4.pdf)
+![Automatic Greenhouse circuit](./Academic Projects/Automatic Greenhouse circuit.png)
 
 
 - Developed circuits to create electro-mechanical systems such as a simulated Geneva drive mechanism system (Mechatronics).
