@@ -18,9 +18,10 @@ layout: default
 - Utilized Propeller 2 chip and voltage divider circuits to create a physically interactive video game, learning embedded microcontroller programming (Mechatronics).
 - Designed and simulated automated greenhouse responsible for providing water and oxygen to plants and alerting farmers when to harvest. Created throughTinkerCAD (Mechatronics).
 
+![automatic greenhouse schematic](./Academic Projects/automatic greenhouse schematic.png)
+
 ![FINAL Projects 3 +4](./Academic Projects/FINAL Projects 3 +4.pdf)
 
-![Automatic Greenhouse circuit](./Academic Projects/Automatic Greenhouse circuit.png)
 
 - Developed circuits to create electro-mechanical systems such as a simulated Geneva drive mechanism system (Mechatronics).
 - Designed and proposed brain-computer interface EEG with filtering to ease movement post-stroke (Physiology II).
