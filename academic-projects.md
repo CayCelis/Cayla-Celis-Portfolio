@@ -17,6 +17,9 @@ layout: default
 - Designed automated desk debris sweeper; mechanism converts linear motion to be orthogonal to its original direction. Mechanism controlled by stepper motors to control motor direction and PWM controls to control distance traveled (Mechatronics).
 - Utilized Propeller 2 chip and voltage divider circuits to create a physically interactive video game, learning embedded microcontroller programming (Mechatronics).
 - Designed and simulated automated greenhouse responsible for providing water and oxygen to plants and alerting farmers when to harvest. Created throughTinkerCAD (Mechatronics).
+
+![FINAL Projects 3 +4](./Academic Projects/FINAL Projects 3 +4.pdf)
+
 ![Automatic Greenhouse circuit](./Academic Projects/Automatic Greenhouse circuit.png)
 
 - Developed circuits to create electro-mechanical systems such as a simulated Geneva drive mechanism system (Mechatronics).
