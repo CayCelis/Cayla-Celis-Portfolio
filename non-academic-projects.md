@@ -20,6 +20,7 @@ layout: default
 - Maintained operational continuity by managing elections and onboarding new leadership.
 - Strengthened team culture through events and internal communications. Wrote grants and year-end reports.
 
+
 ## Mechanical Team Member	_September 2021 - May 2025_
 - CAD-ed parts/assemblies with parametric design and configurations for electronics protection. Proficient in  SOLIDWORKS Sheet Metal and CAD PDM software to manage large assemblies. Delegated to 15-20.
 - Machined skid-steer grouser-applied wheeled drivetrain and excavation system (bucket ladders/bucket drums) yearly.
