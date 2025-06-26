@@ -12,6 +12,20 @@ layout: default
 - Determined the effect of PLA plastic specimens 3D printed in 3 different orientations (horizontal, vertical, tilted at 45° angle) on shear strength (Mechanics Lab).
 ![3d orientations](./Academic Projects/3d orientations.png)
 
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+
+<p>Figure 1. Specimens after torsion testing.</p>
+
+</body>
+</html>
+
+
 ## Mechatronics
 ### 2025
 - Researched and applied reinforcement learning to an EEG-controlled robotic hand with 3 others. Was able to obtain an 88% success rate in controlling hand by tensing and relaxing (ME Design I & II).
