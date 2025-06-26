@@ -8,6 +8,10 @@ layout: default
 ### 2025
 - Wrote short review article on additive manufacturing in titanium-alloy hip implants (Manuf. & Production Tech).
 
+### 2023
+- Determined the effect of PLA plastic specimens 3D printed in 3 different orientations (horizontal, vertical, tilted at 45° angle) on shear strength.
+
+
 ## Mechatronics
 ### 2025
 - Researched and applied reinforcement learning to an EEG-controlled robotic hand with 3 others. Was able to obtain an 88% success rate in controlling hand by tensing and relaxing (ME Design I & II).
