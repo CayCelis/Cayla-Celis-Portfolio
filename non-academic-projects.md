@@ -38,4 +38,18 @@ p {text-align: center;}
 </body>
 </html>
 
+![2023_WheelAssembly](./Non-Academic Projects/Machining and Assembling/2023_WheelAssembly.png)
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+
+<p>Figure 2. Assembling wheel for 2022-2023 rover, Rocks-anne. </p>
+
+</body>
+</html>
+
 - Created testing resources — documentation, arena map, and props to simulate arena.
