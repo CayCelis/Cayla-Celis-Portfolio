@@ -24,7 +24,7 @@ layout: default
 ## Mechanical Team Member	_September 2021 - May 2025_
 - CAD-ed parts/assemblies with parametric design and configurations for electronics protection. Proficient in  SOLIDWORKS Sheet Metal and CAD PDM software to manage large assemblies. Delegated to 15-20.
 - Machined skid-steer grouser-applied wheeled drivetrain and excavation system (bucket ladders/bucket drums) yearly.
-
+![wheel grouser cad](./Academic Projects/wheel grouser cad.png)
 <html>
 <head>
 <style>
