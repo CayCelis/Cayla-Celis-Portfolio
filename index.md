@@ -11,3 +11,5 @@ B.S., Mechanical Engineering | The University of Virginia (_May 2025_)
 ### [Work Experience](./work-experience.md)
 ### [Academic Projects](./academic-projects.md)
 ### [Non-Academic Projects](./non-academic-projects.md)
+
+Blog: Coming soon!
