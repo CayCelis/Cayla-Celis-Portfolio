@@ -52,9 +52,6 @@ p {text-align: center;}
 </body>
 </html>
 
-</body>
-</html>
-
 ![2025_WaterjetDrivetrain](./Non-Academic Projects/Machining and Assembling/2025_WaterjetDrivetrain.jpg)
 <html>
 <head>
