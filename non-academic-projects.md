@@ -38,7 +38,7 @@ p {text-align: center;}
 </body>
 </html>
 
-![2023_WheelAssembly](./Non-Academic Projects/Machining and Assembling/2023_WheelAssembly.png)
+![2023_WheelAssembly](./Non-Academic Projects/Machining and Assembling/2023_WheelAssembly.jpg)
 <html>
 <head>
 <style>
@@ -47,7 +47,24 @@ p {text-align: center;}
 </head>
 <body>
 
-<p>Figure 2. Assembling wheel for 2022-2023 rover, Rocks-anne. </p>
+<p>Figure 2. Assembling wheel for 2023 rover, Rocks-anne. </p>
+
+</body>
+</html>
+
+</body>
+</html>
+
+![2025_WaterjetDrivetrain](./Non-Academic Projects/Machining and Assembling/2025_WaterjetDrivetrain.jpg)
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+
+<p>Figure 3. Waterjetting wheels for 2025 rover, Artie. </p>
 
 </body>
 </html>
