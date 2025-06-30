@@ -6,7 +6,7 @@ Work featured in:
 - [UVA Engineering: Lunar Simulated Arena](https://engineering.virginia.edu/news-events/news/uva-lands-moon-base-robot-arena-simulate-lunar-surfaces-nasa-competition)
 
 Other Recognition:
-- [Non-Engineering Leadership](https://www.cavalierdaily.com/article/2023/04/oyfa-celebrates-their-35th-anniversary)
+- [Cavalier Daily: Non-Engineering Leadership](https://www.cavalierdaily.com/article/2023/04/oyfa-celebrates-their-35th-anniversary)
 
 ## Education
 B.S., Mechanical Engineering | The University of Virginia (_May 2025_)
