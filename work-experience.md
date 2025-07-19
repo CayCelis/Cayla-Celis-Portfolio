@@ -31,7 +31,7 @@ layout: default
 - Built Python GUI to batch-process 50+ tensile tests, calculate UTS/strain, & generate stress-strain curves in Excel.
 - Independently conducted tensile tests of 50+ recycled plastic/carbon fiber samples to assess mechanical properties.
 - Assisted 1D/2D DIC setup to analyze torsion effects on composites in 2+ test sessions.
-- Injection-molded 20+ recycled plastic samples to evaluate composite materials for electric vehicle applications.
+- Plastic-extruded 20+ recycled plastic samples to evaluate composite materials for electric vehicle applications.
 - Studied ASTM D256 & E143 to understand impact resistance & shear modulus testing for recycled plastic composites.
 - Drafted 10+ usability improvement proposals for the lab extrusion machine, detailing benefits and drawbacks of each.
 
