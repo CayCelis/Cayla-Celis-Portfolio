@@ -32,7 +32,17 @@ p {text-align: center;}
 
 ## Systems Engineering Highlights
 ### 2025
-- Coming soon!
+![2025 Final Systems Hierarchy](./Non-Academic Projects/Detailed Systems Hierarchy-Top-Level Integrated.png)
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+<p> 2025 Final Systems Hierarchy </p>
+</body>
+</html>
   
 ### 2024
 ![2024 CDR Hierarchy](./Non-Academic Projects/2024CDR_Hierarchy.png)
