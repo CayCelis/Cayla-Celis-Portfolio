@@ -33,8 +33,19 @@ p {text-align: center;}
 ## Systems Engineering Highlights
 ### 2025
 - Coming soon!
+  
 ### 2024
-- Coming soon!
+![2024 CDR Hierarchy](./Non-Academic Projects/2024CDR_Hierarchy.png)
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+<p>2024 CDR Hierarchy. </p>
+</body>
+</html>
 
 ## Manufacturing Highlights
 ![2025_WaterjetDrivetrain](./Non-Academic Projects/Machining and Assembling/2025_WaterjetDrivetrain.jpg)
