@@ -5,7 +5,18 @@ title: Project Highlights (Non-Academic)
 # Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team	University of Virginia
 ## CAD Highlights
 ### 2025
-- Coming soon!
+![2025_realsensemountassembly](./Non-Academic Projects/2025_realsensemountassembly.png)
+<html>
+<head>
+<style>
+p {text-align: center;}
+</style>
+</head>
+<body>
+<p> 3D-printed camera mount </p>
+</body>
+</html>
+
 ### 2024
 ![wheel grouser cad](./Non-Academic Projects/wheel grouser cad.png)
 <html>
