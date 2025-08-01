@@ -2,7 +2,7 @@
 layout: default
 title: Highlighted Projects
 ---
-# Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team	University of Virginia
+<---# Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team	University of Virginia
 ## CAD Highlights
 ### 2025
 ![2025_realsensemountassembly](./Non-Academic Projects/2025_realsensemountassembly.png)
@@ -84,4 +84,4 @@ p {text-align: center;}
 <p>Assembling wheel for 2023 rover, Rocks-anne. </p>
 
 </body>
-</html>
+</html>-->
