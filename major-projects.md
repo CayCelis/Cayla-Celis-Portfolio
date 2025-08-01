@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Highlights (Non-Academic)
+title: Highlighted Projects
 ---
 # Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team	University of Virginia
 ## CAD Highlights
