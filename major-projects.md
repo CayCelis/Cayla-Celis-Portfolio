@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Highlighted Projects
+title: Major Projects
 ---
 
 ## Senior Capstone Project
