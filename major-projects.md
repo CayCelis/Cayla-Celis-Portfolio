@@ -2,86 +2,21 @@
 layout: default
 title: Highlighted Projects
 ---
-<---# Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team	University of Virginia
-## CAD Highlights
-### 2025
-![2025_realsensemountassembly](./Non-Academic Projects/2025_realsensemountassembly.png)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p> 3D-printed camera mount </p>
-</body>
-</html>
 
-### 2024
-![wheel grouser cad](./Non-Academic Projects/wheel grouser cad.png)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p>The above picture displays the wheel grousers I CAD-ed for our skid-steer drivetrain. My final CAD, made with SOLIDWORKS' Sheet Metal functionality, took account of the various machining practices needed to create them such as waterjetting and metal bending. As MARS typically makes modular designs, the grousers are attached to each wheel shell via small steel dowels and rivets. </p>
-</body>
-</html>
+## Senior Capstone Project
+### EEG-Controlled Robotic Arm
+_A robotic arm designed to clench and unclench based on tensing and relaxing._
 
-## Systems Engineering Highlights
-### 2025
-![2025 Final Systems Hierarchy](./Non-Academic Projects/Detailed Systems Hierarchy-Top-Level Integrated.png)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p> 2025 Final Systems Hierarchy </p>
-</body>
-</html>
-  
-### 2024
-![2024 CDR Hierarchy](./Non-Academic Projects/2024CDR_Hierarchy.png)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-<p>2024 CDR Hierarchy. </p>
-</body>
-</html>
+## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
 
-## Manufacturing Highlights
-![2025_WaterjetDrivetrain](./Non-Academic Projects/Machining and Assembling/2025_WaterjetDrivetrain.jpg)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
+### Artie
+_After major effort was put into the team's project management, systems engineering, and mechanical engineering design, Artie became the first MARS rover to place in the top ten, earning fifth place in the arena and the Innovation Award._
 
-<p>Waterjetting wheels for 2025 rover, Artie. </p>
+### Simulated Lunar Surface Arena
+_MARS' independent research project to bring about a simulated lunar surface arena by Fall 2025!_
 
-</body>
-</html>
+### Bermie
+_As MARS' 2024 lunar rover, Bermie became the first in the team's history to score points in the NASA Lunabotics Challenge!_
 
-![2023_WheelAssembly](./Non-Academic Projects/Machining and Assembling/2023_WheelAssembly.jpg)
-<html>
-<head>
-<style>
-p {text-align: center;}
-</style>
-</head>
-<body>
-
-<p>Assembling wheel for 2023 rover, Rocks-anne. </p>
-
-</body>
-</html>-->
+### Rocks-Anne
+_The last lunar rover built by MARS to mine rocks in a simulated lunar surface._ 
