@@ -4,6 +4,9 @@ title: Major Projects
 ---
 
 ## Senior Capstone Project
+<html>
+  <img align="left" src="Major Projects/capstone_bionic_arm_thumbnail.png">
+</html>
 
 ![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_thumbnail.png)
 
