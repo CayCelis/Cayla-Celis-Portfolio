@@ -5,8 +5,23 @@ title: Major Projects
 
 ## Senior Capstone Project
 <html>
-  <img align="left" src="Major Projects/capstone_bionic_arm_thumbnail.png">
+  <head>
+  <style>
+    div {
+      display: flex;
+      justify-content: left;
+      align-items: left;
+    }
+  </style>
+  </head>
+  <div>
+    <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
+  </div>
 </html>
+
+<!---<html>
+  <img align="left" src="Major Projects/capstone_bionic_arm_thumbnail.png">
+</html>-->
 
 <!---![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_thumbnail.png)-->
 
