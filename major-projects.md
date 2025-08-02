@@ -5,7 +5,7 @@ title: Major Projects
 
 ## Senior Capstone Project
 
-![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_small.png)
+![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_thumbnail.png)
 
 ### EEG-Controlled Robotic Arm
 _A robotic arm designed to clench and unclench based on tensing and relaxing._
