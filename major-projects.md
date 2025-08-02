@@ -27,6 +27,8 @@ title: Major Projects
 
 ### EEG-Controlled Robotic Arm
 _A robotic arm designed to clench and unclench based on tensing and relaxing._
+
+<br>
 <br>
 
 ## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
