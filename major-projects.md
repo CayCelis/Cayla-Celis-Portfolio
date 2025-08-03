@@ -20,7 +20,7 @@ p {
 
 div {
   display: inline-block;
-  float: right;
+  <!---float: right;-->
 }
 
 img {
