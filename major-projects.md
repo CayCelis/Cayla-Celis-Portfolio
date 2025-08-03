@@ -13,7 +13,7 @@ h1 {
 h2 {
   font-size: 30px;
 }
-## s
+
 p {
   font-size: 1px;
 }
@@ -21,9 +21,8 @@ p {
 </head>
 <body>
 
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<p>This is a paragraph.</p>
+## s
+
 <p>This is another paragraph.</p>
 
 </body>
