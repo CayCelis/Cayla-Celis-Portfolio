@@ -5,11 +5,11 @@ title: Major Projects
 <html>
 <head>
 <style>
-h1 {
+h2 {
   font-size: 25px;
 }
 
-h2 {
+h3 {
   font-size: 20px;
 }
 
