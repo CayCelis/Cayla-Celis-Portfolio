@@ -18,10 +18,10 @@ p {
   font-style: italic;
 }
 
-div {
+<!---div {
   display: flex;
   justify-content: left;
-}
+}-->
 
 </style>
 </head>
