@@ -16,7 +16,7 @@ h2 {
 p {
   font-size: 15px;
   font-style: italic;
-  vertical-align: center
+  vertical-align:middle
 }
 
 div {
