@@ -38,7 +38,7 @@ img {
 
 
 <ul class="div" style="list-style-type:none">
-  <li><h2>EEG-Controlled Robotic Arm</h2></li>
+  <li><h3>EEG-Controlled Robotic Arm</h3></li>
   <li><p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p></li>
 </ul>
 
