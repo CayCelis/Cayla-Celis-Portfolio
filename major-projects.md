@@ -27,7 +27,7 @@ div {
 }
 img {
   display: inline-block;
-  padding: 20px;
+  padding-right: 20px;
   vertical-align:middle;
   float:left;
 }
