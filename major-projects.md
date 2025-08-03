@@ -4,7 +4,7 @@ title: Major Projects
 ---
 <html>
 <head>
-<style
+<style>
   
 body {
   margin: 50px;
