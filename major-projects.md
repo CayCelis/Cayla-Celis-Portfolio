@@ -25,7 +25,7 @@ div {
 
 img {
   display: inline-block;
-  margin-right: 115px;
+  margin-right: 11500px;
 }
 
 </style>
