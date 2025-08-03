@@ -20,7 +20,6 @@ p {
 
 div {
   display: inline-block;
-  list-style-type: none;
   vertical-align: top;
   float: right;
   padding: 20px;
