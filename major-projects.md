@@ -19,7 +19,7 @@ p {
 }
 
 div {
-  display: flex;
+  display: inline-block;
   <!---float: right;-->
 }
 
