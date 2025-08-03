@@ -18,10 +18,9 @@ p {
   font-style: italic;
 }
 
-<!---div {
-  display: flex;
-  justify-content: left;
-}-->
+div {
+  display: inline-block;
+}
 
 </style>
 </head>
@@ -29,6 +28,8 @@ p {
     <h2>Senior Capstone Project</h2>
   <div>
     <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
+  </div>
+  <div>
     <h3>EEG-Controlled Robotic Arm</h3>
     <p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p>
   </div>
