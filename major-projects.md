@@ -17,6 +17,7 @@ p {
   font-size: 15px;
   font-style: italic;
   vertical-align:middle
+  float:left
 }
 
 div {
