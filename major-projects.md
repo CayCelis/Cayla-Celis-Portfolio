@@ -6,7 +6,7 @@ title: Major Projects
 <head>
 <style>
 h1 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 h2 {
@@ -14,27 +14,34 @@ h2 {
 }
 
 p {
+  display: inline-block;
   font-size: 15px;
-  font-style: italic;
-  vertical-align:middle;
-  float:left;
 }
 
 div {
   display: inline-block;
+  list-style-type: none;
+  vertical-align: top;
+  float: right;
+  padding: 20px;
+}
+img {
+  display: inline-block;
+  padding: 20px;
+  vertical-align:middle;
+  float:left;
 }
 
 </style>
 </head>
 <body>
-    <h2>Senior Capstone Project</h2>
-  <div>
-    <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
-  </div>
-  <div>
-    <h3>EEG-Controlled Robotic Arm</h3>
-    <p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p>
-  </div>
+<img src="Major Projects/capstone_bionic_arm_thumbnail.png">
+
+
+<ul class="div" style="list-style-type:none">
+  <li><h2>Senior Capstone Project</h2></li>
+  <li><p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p></li>
+</ul>
 
     
 </body>
