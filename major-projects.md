@@ -7,7 +7,7 @@ title: Major Projects
 <style>
   
 body {
-  margin: 50px;
+  margin: 0;
 }
   
 h2 {
@@ -30,6 +30,7 @@ div {
   float: right;
   padding: 20px;
 }
+
 img {
   display: inline-block;
   padding-right: 20px;
