@@ -32,7 +32,7 @@ img {
 </head>
 <body>
 <h2>Senior Capstone Project</h2>
-<img src="Major Projects/capstone_bionic_arm_thumbnail.png">
+<div><img src="Major Projects/capstone_bionic_arm_thumbnail.png"></div>
 
 
 <ul class="div" style="list-style-type:none">
