@@ -7,21 +7,19 @@ title: Major Projects
 <head>
 <style>
 h1 {
-  font-size: 40px;
-}
-
-h2 {
   font-size: 30px;
 }
 
+h2 {
+  font-size: 20px;
+}
+
 p {
-  font-size: 1px;
+  font-size: 14px;
 }
 </style>
 </head>
 <body>
-
-## s
 
 <p>This is another paragraph.</p>
 
