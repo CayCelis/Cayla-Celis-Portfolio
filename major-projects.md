@@ -29,7 +29,6 @@ img {
   display: inline-block;
   padding: 20px;
   vertical-align:middle;
-  float:left;
 }
 
 </style>
