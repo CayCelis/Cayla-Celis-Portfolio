@@ -2,7 +2,6 @@
 layout: default
 title: Major Projects
 ---
-
 <html>
 <head>
 <style>
@@ -15,19 +14,31 @@ h2 {
 }
 
 p {
-  font-size: 25px;
+  font-size: 15px;
+  font-style: italic;
 }
+
+div {
+  display: flex;
+  justify-content: left;
+}
+
 </style>
 </head>
 <body>
+    <h2>Senior Capstone Project</h2>
+  <div>
+    <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
+    <h3>EEG-Controlled Robotic Arm</h3>
+    <p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p>
+  </div>
 
-<p>This is another paragraph.</p>
-
+    
 </body>
 </html>
 
-## Senior Capstone Project
-<!---<html>
+<!---## Senior Capstone Project
+<html>
   <head>
   <style>
     div {
@@ -42,17 +53,17 @@ p {
   </div>
 </html>-->
 
-<html>
-  <img align="left" src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
-</html>
+<!---<html>
+  <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
+</html>-->
 
 <!---![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_thumbnail.png)-->
 
-### EEG-Controlled Robotic Arm
+<!---### EEG-Controlled Robotic Arm
 _A robotic arm designed to clench and unclench based on tensing and relaxing._
 
 <br>
-<br>
+<br>-->
 
 ## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
 
