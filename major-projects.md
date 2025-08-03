@@ -29,6 +29,7 @@ div {
   vertical-align: top;
   float: right;
   padding: 20px;
+  line-height: 1.5
 }
 
 img {
