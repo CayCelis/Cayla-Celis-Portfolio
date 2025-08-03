@@ -33,11 +33,12 @@ img {
 </style>
 </head>
 <body>
+<h2>Senior Capstone Project</h2>
 <img src="Major Projects/capstone_bionic_arm_thumbnail.png">
 
 
 <ul class="div" style="list-style-type:none">
-  <li><h2>Senior Capstone Project</h2></li>
+  <li><h2>EEG-Controlled Robotic Arm</h2></li>
   <li><p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p></li>
 </ul>
 
