@@ -15,7 +15,7 @@ h2 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 25px;
 }
 </style>
 </head>
