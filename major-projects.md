@@ -25,7 +25,6 @@ div {
 
 img {
   display: inline-block;
-  padding: 20px;
 }
 
 </style>
