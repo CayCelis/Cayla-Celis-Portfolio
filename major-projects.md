@@ -42,5 +42,10 @@ _MARS' independent research project to bring about a simulated lunar surface are
 ### Bermie
 _As MARS' 2024 lunar rover, Bermie became the first in the team's history to score points in the NASA Lunabotics Challenge!_
 
+
+<html>
+  <img align="left" src="Major Projects/rocksanne_photo_thumbnail.png" style="padding:15px;">
+</html>
+
 ### Rocks-Anne
 _The last lunar rover built by MARS to mine rocks in a simulated lunar surface._ 
