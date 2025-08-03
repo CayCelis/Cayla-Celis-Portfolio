@@ -19,12 +19,13 @@ p {
 }
 
 div {
-  display: inline-block;
+  display: flex;
   <!---float: right;-->
 }
 
 img {
   display: inline-block;
+  margin-right: auto;
 }
 
 </style>
