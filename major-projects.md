@@ -20,14 +20,12 @@ p {
 
 div {
   display: inline-block;
-  vertical-align: top;
   float: right;
 }
 
 img {
   display: inline-block;
   padding: 20px;
-  vertical-align:middle;
 }
 
 </style>
