@@ -42,7 +42,6 @@ img {
   <li><p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p></li>
 </ul>
 
-</div>
 
 
 
