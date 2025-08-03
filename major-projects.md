@@ -22,8 +22,8 @@ div {
   display: inline-block;
   vertical-align: top;
   float: right;
-  padding: 20px;
 }
+
 img {
   display: inline-block;
   padding: 20px;
