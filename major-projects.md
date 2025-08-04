@@ -29,7 +29,8 @@ div {
   vertical-align: top;
   float: right;
   padding: 20px;
-  line-height: 1.5
+  width: 100px;
+  height: 100px;
 }
 
 img {
@@ -85,7 +86,7 @@ _A robotic arm designed to clench and unclench based on tensing and relaxing._
 <br>
 <br>-->
 
-## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
+<!--## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
 
 ### Artie
 _After major effort was put into the team's project management, systems engineering, and mechanical engineering design, Artie became the first MARS rover to place in the top ten, earning fifth place in the arena and the Innovation Award._
@@ -102,4 +103,4 @@ _As MARS' 2024 lunar rover, Bermie became the first in the team's history to sco
 </html>
 
 ### Rocks-Anne
-_The last lunar rover built by MARS to mine rocks in a simulated lunar surface._ 
+_The last lunar rover built by MARS to mine rocks in a simulated lunar surface._ -->
