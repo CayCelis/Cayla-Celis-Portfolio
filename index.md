@@ -7,7 +7,7 @@ layout: default
 <style>
 
 h3 {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 </style>
