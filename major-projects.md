@@ -2,91 +2,12 @@
 layout: default
 title: Major Projects
 ---
-<html>
-<head>
-<style>
-  
-body {
-  margin: -10 px;
-}
-  
-h2 {
-  font-size: 25px;
-}
 
-h3 {
-  font-size: 20px;
-}
-
-p {
-  display: inline-block;
-  font-size: 15px;
-}
-
-div {
-  display: inline-block;
-  list-style-type: none;
-  vertical-align: top;
-  float: right;
-  padding: 20px;
-  width: 100px;
-  height: 100px;
-}
-
-img {
-  display: inline-block;
-  padding-right: 20px;
-  vertical-align:top;
-  float:left;
-}
-
-</style>
-</head>
-<body>
-<h2>Senior Capstone Project</h2>
-<img src="Major Projects/capstone_bionic_arm_thumbnail.png">
-<ul class="div" style="list-style-type:none">
-  <li><h3>EEG-Controlled Robotic Arm</h3></li>
-  <li><p>A robotic arm designed to clench and unclench based on tensing and relaxing.</p></li>
-</ul>
-
-
-
-
-
-    
-</body>
-</html>
-
-<!---## Senior Capstone Project
-<html>
-  <head>
-  <style>
-    div {
-      display: flex;
-      justify-content: left;
-      align-items: left;
-    }
-  </style>
-  </head>
-  <div>
-    <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
-  </div>
-</html>-->
-
-<!---<html>
-  <img src="Major Projects/capstone_bionic_arm_thumbnail.png" style="padding:15px;">
-</html>-->
-
-<!---![Capstone Bionic Arm](./Major Projects/capstone_bionic_arm_thumbnail.png)-->
-
-<!---### EEG-Controlled Robotic Arm
+## Senior Capstone Project
+### EEG-Controlled Robotic Arm
 _A robotic arm designed to clench and unclench based on tensing and relaxing._
 
-<br>
-<br>-->
-
-<!--## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
+## Mechatronics and Robotics Society (MARS) – UVA NASA Lunabotics Team
 
 ### Artie
 _After major effort was put into the team's project management, systems engineering, and mechanical engineering design, Artie became the first MARS rover to place in the top ten, earning fifth place in the arena and the Innovation Award._
@@ -97,10 +18,5 @@ _MARS' independent research project to bring about a simulated lunar surface are
 ### Bermie
 _As MARS' 2024 lunar rover, Bermie became the first in the team's history to score points in the NASA Lunabotics Challenge!_
 
-
-<html>
-  <img align="left" src="Major Projects/rocksanne_photo_thumbnail.png" style="padding:15px;">
-</html>
-
 ### Rocks-Anne
-_The last lunar rover built by MARS to mine rocks in a simulated lunar surface._ -->
+_The last lunar rover built by MARS to mine rocks in a simulated lunar surface._
